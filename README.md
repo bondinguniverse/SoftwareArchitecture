@@ -8,3 +8,5 @@ People
 * Neal Ford
 * Allen holub
 * Mark Richards
+* Simon Brown
+
