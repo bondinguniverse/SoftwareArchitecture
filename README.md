@@ -45,10 +45,10 @@ Design Patterns
   * CRTP
   * Dispatch
   * Double Dispatch
-  * Disruptor
 
 Software Patterns
-  *
+  * Disruptor
+  
   
   
   
